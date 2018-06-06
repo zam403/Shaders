@@ -7,6 +7,7 @@ Luis Alfonso Zamora Urrego
 
 
 SHADOWS
+
 El presente proyecto permite recrear las sobras generadas a partir de un foco de luz, presentando su intersección con otros objetos dentro del canvas mediante el uso de un shader generico.
 
 
